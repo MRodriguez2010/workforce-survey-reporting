@@ -1,5 +1,7 @@
 # Workforce Survey Reporting
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 Harbor’s favorable responses on schedule clarity rose from four of eight to six of eight. The favorable share increased from 50% to 75%, a **25 percentage-point change**. At Juniper, the baseline group was too small to publish a change. Both sites and all responses in this example are fictional.
 
 [Read the sample report](example/results.md) · [Inspect the aggregation SQL](sql/summary.sql) · [Inspect the input](example/responses.csv)
